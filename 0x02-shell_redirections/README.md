@@ -18,3 +18,4 @@ Task 16- Displays lines containing pattern "root" and 3 lines after them from fi
 Task 17- Displays the lines in file /etc/passwd not containing "root"
 Task 18- Displays all lines of the file starting with a letter
 Task 19- Replaces characters A and c to Z and e
+Task 20- Removes all letters c and C
