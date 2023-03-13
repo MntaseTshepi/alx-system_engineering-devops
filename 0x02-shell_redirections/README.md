@@ -19,3 +19,4 @@ Task 17- Displays the lines in file /etc/passwd not containing "root"
 Task 18- Displays all lines of the file starting with a letter
 Task 19- Replaces characters A and c to Z and e
 Task 20- Removes all letters c and C
+Task 21- Reverses a given input
