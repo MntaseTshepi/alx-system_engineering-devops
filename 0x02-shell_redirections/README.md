@@ -20,3 +20,4 @@ Task 18- Displays all lines of the file starting with a letter
 Task 19- Replaces characters A and c to Z and e
 Task 20- Removes all letters c and C
 Task 21- Reverses a given input
+Task 22- Displays all users and their home directories, sorted by users
