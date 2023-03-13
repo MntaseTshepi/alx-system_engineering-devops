@@ -8,3 +8,4 @@ Task 6- Displays the third line of the file iacta
 Task 7- Displays a file containing Best School
 Task 8- Displays the results of ls -la into a file 
 Task 9- Duplicate the last line of file iacta
+Task 10- Deletes of files with .js extention in current directory and subfolders
