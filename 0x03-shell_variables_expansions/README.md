@@ -4,3 +4,4 @@ Task 2- Adds directory /path to the list of directories in PATH
 Task 3- Counts the number of directories in PATH
 Task 4- Lists environment variables
 Task 5- Lists all local variables and environment variables, and functions
+Task 6- Creates a new local variable
