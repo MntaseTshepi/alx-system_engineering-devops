@@ -10,4 +10,5 @@ Task 8- Prints the result of the addition of 128 and the vaule of variable TRUEK
 Task 9- Prints the result of variable POWER divided by variable DIVIDE
 Task 10- Prints the result of variable BREATH to the power of variable LOVE
 Task 11- Converts a number from base 2 to base 10
-Task 12- Prints all possible combinations of two letters 
+Task 12- Prints all possible combinations of two letters
+Task 13- Prints a number with 2 decimal places 
